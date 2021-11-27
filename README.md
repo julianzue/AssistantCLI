@@ -1,4 +1,4 @@
-# AssistentCLI
+# AssistantCLI
 
 ## Explanation
 This python program works with speech recognition and can help you to control the computer.
